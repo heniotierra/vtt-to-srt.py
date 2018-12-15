@@ -124,4 +124,5 @@ def main():
 
 	walktree(TopMostPath, convertVTTtoSRT)
 	
-main()	
+if __name__ == '__main__':
+    main()
